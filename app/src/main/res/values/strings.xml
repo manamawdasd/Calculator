@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kalku</string>
+    <string name="tab_calculator">Kalkulator</string>
+    <string name="tab_currency">Mata Uang</string>
+    <string name="history_title">Riwayat</string>
+    <string name="history_empty">Belum ada riwayat hitungan</string>
+    <string name="history_clear">Hapus</string>
+    <string name="convert_result_cta">Konversi hasil</string>
+    <string name="currency_from">Dari</string>
+    <string name="currency_to">Ke</string>
+    <string name="currency_swap">Tukar mata uang</string>
+    <string name="currency_search_hint">Cari kode atau nama mata uang…</string>
+    <string name="currency_select_title">Pilih Mata Uang</string>
+    <string name="currency_refresh">Segarkan kurs</string>
+    <string name="currency_offline_cached">Kurs tersimpan (offline)</string>
+    <string name="currency_fallback_rates">Kurs referensi offline</string>
+    <string name="currency_error_calc">Ekspresi tidak valid</string>
+</resources>
